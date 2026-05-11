@@ -21,6 +21,7 @@ web/coverage/
 .idea/
 *.swp
 .DS_Store
+/.DS_Store
 
 # Logs
 *.log
